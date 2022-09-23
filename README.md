@@ -1,14 +1,16 @@
 ## Sex-Specific Differences in MicroRNA Expression During Human Fetal Lung Development
 
-**Key Links:** 
+**Key Links:** \
 Manuscript: [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.762834) (open access) \
-GEO: [GSE200153](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200153) (raw .fastqs)
+GEO: [GSE200153](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200153) (raw data/.fastqs)
 
 **Summary:** We profiled whole prenatal human lung samples using microRNA-sequencing, demonstrating differences in autosomal microRNA (i) average expression levels and (ii) expression patterns across gestational age between males and females--even in very early lung development. The sex differences identified include microRNAs thought to regulate prenatal lung development and post-natal disease susceptibility.
 
 ## Repo Files
 
-This repo includes analysis scripts and key processed data files. In addition to the count matrices provided above, see above GEO link for acces to the raw miRNA-seq data.
+This repo includes analysis scripts and key processed data files.
+
+In addition to the count matrices provided above, see above GEO link for acces to the raw miRNA-seq data.
 
 ```
 File Structure
